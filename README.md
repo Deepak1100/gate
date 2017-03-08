@@ -25,7 +25,7 @@ Gate is a Rails application, compatible with JRuby.
 * Setup 5 environment variables
 
 	````
-	GATE_OAUTH_SECRET - your oauth key
+	GATE_OAUTH_API_KEY - your oauth key
 	GATE_OAUTH_CLIENT_KEY - your client secret key
 	GATE_HOSTED_DOMAIN - the hosted domain for gmail
 	GATE_SERVER_URL - gate server fqdn
